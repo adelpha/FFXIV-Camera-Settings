@@ -1,6 +1,6 @@
 WorkingDate = 6/23/2015 - Patch 3.00
 
-CameraAddress = 147F680
+CameraAddress = 0x147F680
 
 ZoomCurrentOffset = 0xE8
 ZoomMaxOffset = 0xF0
